@@ -28,3 +28,10 @@ I'm
 <h2 align="left">What did i do?</h2>
 
 * I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
+                
+<br>
+<h2 align="left">Design Tools I Use</h2>
+
+| HTML | CSS | JAVASCRİPT |
+| :-: | :-: | :-: |
+|<img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>|
