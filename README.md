@@ -7,8 +7,8 @@
 </div>
 
 <p align="center">
-    <a href="mailto:armagan.baskann@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-    <a href="https://www.linkedin.com/in/armaganbaskan/%22%3E<img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>     
+   <a href="mailto:cnrture@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+   <a href="https://www.linkedin.com/in/armaganbaskan/%22%3E<img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>     
 </p>
 
 <br/>
