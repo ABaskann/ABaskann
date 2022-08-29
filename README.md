@@ -30,7 +30,7 @@ I'm
 * I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
                 
 <br>
-<h2 align="left">Language Tools I Use</h2>
+<h2 align="left">Language</h2>
 
 | HTML | CSS | JAVASCRİPT |
 | :-: | :-: | :-: |
