@@ -25,7 +25,7 @@ I'm
 * studying front-end development
 
 
-<h2 align="left">What did i do?</h2>
+<h2 align="left">What did I do?</h2>
 
 * I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
                 
