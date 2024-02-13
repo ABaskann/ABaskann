@@ -1,16 +1,38 @@
-<h1 align="center">Hi 👋, I'm Armağan</h1>
-<h3 align="center">frontend developer and IOS developer from Turkey</h3>
+<h1 align="center">Hello 👋, I'm Armağan</h1>
 
-- 🌱 I’m currently learning **Swift**
+<br/>
 
-- 📫 How to reach me **armagan.baskann@gmail.com**
+<div align=center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1FF733&center=true&vCenter=true&width=800&height=100&lines=I'm+trying+to+be+Developer" alt="Typing SVG" /></a>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armaganbaskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaganbaskan" height="30" width="40" /></a>
+<p align="center">
+   <a href="mailto:armagan.baskann@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+   <a href="https://www.linkedin.com/in/armaganbaskan/%22%3E<img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>     
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abaskann&show_icons=true&locale=en" alt="abaskann" /></p>
+---
+
+<br/>
+
+<img align="right" height="250" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+
+<h2 align="left">What am I doing?</h2>
+
+I'm
+* studying front-end development
+* studying IOS development
+
+
+<h2 align="left">What did I do?</h2>
+
+* I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
+                
+<br>
+<h2 align="left">Language</h2>
+
+| HTML | CSS | JAVASCRİPT |
+| :-: | :-: | :-: |
+|<img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>|
