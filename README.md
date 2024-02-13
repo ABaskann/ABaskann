@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Armağan and I'm a developer, from Turkiye</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1FF733&center=true&vCenter=true&width=800&height=100&lines=I'm+trying+to+be+Developer" alt="Typing SVG" /></a>
 
 ###
 
