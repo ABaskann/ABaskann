@@ -47,3 +47,4 @@ I'm
 * I had a team of 6 person named <a href="https://play.google.com/store/apps/dev?id=9166779984501256088">Netabis</a> that I am the Co-Founder.
                 
 <br>
+<img src="https://raw.githubusercontent.com/ABaskann/ABaskann/output/snake.svg" alt="Snake animation" />
