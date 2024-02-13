@@ -3,11 +3,11 @@
 <br/>
 
 <div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1FF733&center=true&vCenter=true&width=800&height=100&lines=I'm+trying+to+be+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1FF733&center=true&vCenter=true&width=800&height=100&lines=I'm+trying+to+be+Developer" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
-   <a href="mailto:cnrture@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+   <a href="mailto:armagan.baskann@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
    <a href="https://www.linkedin.com/in/armaganbaskan/%22%3E<img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>     
 </p>
 
@@ -23,6 +23,7 @@
 
 I'm
 * studying front-end development
+* studying IOS development
 
 
 <h2 align="left">What did I do?</h2>
