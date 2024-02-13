@@ -1,38 +1,34 @@
-<h1 align="center">Hello 👋, I'm Armağan</h1>
+<h2 align="left">Hi 👋! My name is Armağan and I'm a developer, from Turkiye</h2>
 
-<br/>
+###
 
-<div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1FF733&center=true&vCenter=true&width=800&height=100&lines=I'm+trying+to+be+Developer" alt="Typing SVG" /></a>
+<img align="right" height="150" src=""  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
 </div>
 
-<p align="center">
-   <a href="mailto:armagan.baskann@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-   <a href="https://www.linkedin.com/in/armaganbaskan/%22%3E<img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>     
-</p>
+###
 
-<br/>
+<div align="left">
+  <a href="armagan.baskann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/armaganbaskan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
----
-
-<br/>
-
-<img align="right" height="250" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
-
-<h2 align="left">What am I doing?</h2>
-
-I'm
-* studying front-end development
-* studying IOS development
-
-
-<h2 align="left">What did I do?</h2>
-
-* I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
-                
-<br>
-<h2 align="left">Language</h2>
-
-| HTML | CSS | JAVASCRİPT |
-| :-: | :-: | :-: |
-|<img align="center" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="js" width="40" height="40"/>|
+###
