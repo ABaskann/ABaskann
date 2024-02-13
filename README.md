@@ -1,14 +1,15 @@
+<h2 align="left">Hi 👋! My name is Armağan and I'm a developer, from Türkiye</h2>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=1FF733&center=true&vCenter=true&width=800&height=100&lines=I'm+trying+to+be+Developer" alt="Typing SVG" /></a>
 </div>
 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ABaskann&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -24,7 +25,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="mailto:armagan.baskann@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -44,7 +45,5 @@ I'm
                 
 <br>
 <h2 align="left">What did I do?</h2>
-* I had a team of 6 person named <a href="https://play.google.com/store/apps/dev?id=9166779984501256088">Netabis</a> that I am the Co-Founder.
-                
+* I had a team of 6 person named <a href="https://play.google.com/store/apps/dev?id=9166779984501256088">Netabis</a> that I am the Co-Founder.            
 <br>
-<img src="https://raw.githubusercontent.com/ABaskann/ABaskann/output/snake.svg" alt="Snake animation" />
